@@ -1,0 +1,22 @@
+{
+  "name": "duck-hunt",
+  "version": "1.0.0",
+  "description": "Duck Hunt Leap Drop Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheGeekBros/duck-hunt.git"
+  },
+  "author": "Soham Dodia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheGeekBros/duck-hunt/issues"
+  },
+  "homepage": "https://github.com/TheGeekBros/duck-hunt#readme",
+  "dependencies": {
+    "socket.io": "^2.1.1"
+  }
+}
